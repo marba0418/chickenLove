@@ -20,7 +20,7 @@ public class ExamView {
 		System.out.println("2 . 회원가입");
 		System.out.println("3 . 아이디 찾기");
 		System.out.println("0 . 프로그램 종료");
-		System.out.print("선택 > ");
+		System.out.print("선택 >> ");
 		int select = sc.nextInt();
 
 		return select;
